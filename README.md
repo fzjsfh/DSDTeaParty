@@ -1,5 +1,5 @@
 # DSDTeaParty
-This is the repository for DSD course. 
+This is the repository for DSD course. \n
 I am the project manager-Teagrus-and i name our group 'TeaParty'.
 OurMembers:
 Xin, Hu
