@@ -1,2 +1,2 @@
 # DSDTeaParty
-![Image of PartyIcon](https://octodex.github.com/images/yaktocat.png)
+![Image of PartyIcon](https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/java-icon.svg)
