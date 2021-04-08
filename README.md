@@ -3,7 +3,7 @@
 ## We are "TeaParty" and this is our home page!
 
 ### Our Team members -
-1. Xin HU - the PR/System Architect
+1. Xin HU - the PM/System Architect
 2. Zhe-Jian FANG - Developer
 3. Yan-Hao SUN - Developer
 4. Xiao-Long ZHANG - Developer
