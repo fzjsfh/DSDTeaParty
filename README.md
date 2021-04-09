@@ -6,7 +6,7 @@
 ### ☕ Xin HU - the PM/System Architect
 ### ☕ Zhe-Jian FANG - Developer
 ### ☕ Yan-Hao SUN - Developer
-![SYHICON](https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/Yan-Hao SUN KLEE.png)
+![SYHICON](https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/Yan-HaoSUNKLEE.png)
 #### Introduction
 > I am Yan-hao Sun, a student in jiu who likes games,movies and coding. My favorite coding language is java and most familiar one is c++.
 #### Github Link 
