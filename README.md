@@ -28,6 +28,7 @@
 
 ### ☕ Xiao-Long ZHANG - Developer
 ### ☕ Pedro Nunes - Requirement Analyst
+<img src="https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/MemberIcons/SuperQuinas.jpg" alt="drawing" width="400"/>
 #### Introduction
 + Hi! My name is Pedro Nunes, a "Engenharia Informática" student in UTAD. I like watching sports, mainly football, and also like playing videogames. My favorite programing languages are C++ and python
 #### Github Link 
