@@ -8,7 +8,7 @@
 ### ☕ Yan-Hao SUN - Developer
 ![SYHICON](https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/MemberIcons/Yan-HaoSUNKLEE.png)
 #### Introduction
-> I am Yan-hao Sun, a student in jiu who likes games,movies and coding. My favorite coding language is java and most familiar one is c++.
+> I am Yan-hao Sun, a student in JLU who likes games,movies and coding. My favorite coding language is java and the most familiar one is c++.
 #### Github Link 
 > https://github.com/aliezk423.
 
