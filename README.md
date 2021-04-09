@@ -7,7 +7,7 @@
 2. Zhe-Jian FANG - Developer
 3. Yan-Hao SUN - Developer
 4. Xiao-Long ZHANG - Developer
-5. Pedro Nunes - requirement analyst
+5. Pedro Nunes - Requirement Analyst
 6. Silvana Guedes -Tester
 
 ## Links
