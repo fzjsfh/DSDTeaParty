@@ -14,6 +14,11 @@
 
 ### ☕ Xiao-Long ZHANG - Developer
 ### ☕ Pedro Nunes - Requirement Analyst
+#### Introduction
+> Hi! My name is Pedro Nunes, a "Engenharia Informática" student in UTAD. I like watching sports, mainly football, and also like playing videogames. My favorite programing languages are C++ and python
+#### Github Link 
+> https://github.com/pedrk72
+> 
 ### ☕ Silvana Guedes -Tester
 
 ## Links
