@@ -35,8 +35,9 @@
 #### Github Link 
 + https://github.com/pedrk72
 
-### ☕ Silvana Guedes -Tester
-<img src="https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/MemberIcons/SG_photo.jpg" alt="drawing" width="400"/>
+### ☕ Silvana Guedes - Tester
+<img src="https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/MemberIcons/SG.jpg" alt="drawing" width="400"/>
+
 
 #### Introduction
 + Hi! My name is Silvana Guedes, a biomedical engineering student at UTAD. I am interested in the biomedical area, as well as biomedicine, biotechnology, and bioinformatics. 
