@@ -9,7 +9,7 @@
 <img src="https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/MemberIcons/Zhe-JianFang.png" alt="drawing" width="400"/>
 
 #### Introduction
-+ Hi, I’m @Diamond, named Zhejian FONG.
++ Hi, I’m @Diamond, named Zhejian FANG.
   I’m interested in programming and data mining.
   I’m currently learning computer science in JL University.
   I’m looking to collaborate on server project based on Spring+SpringMVC+Mybatis, or any other structures.
