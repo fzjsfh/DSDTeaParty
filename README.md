@@ -1,4 +1,4 @@
-# DSDTeaParty
+# DSDTeaParty5
 
 ![Image of PartyIcon](https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/java-icon.svg)
 ## We are "TeaParty" and this is our home page!
