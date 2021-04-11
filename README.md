@@ -3,6 +3,9 @@
 ![Image of PartyIcon](https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/java-icon.svg)
 ## We are "TeaParty" and this is our home page!
 
+## Our Roadmap
+<img src="https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/ganttv0.1.png" alt="drawing"/>
+
 ## Our Team members -
 ### ☕ Xin HU - the PM/System Architect
 ### ☕ Zhe-Jian FANG - Developer
