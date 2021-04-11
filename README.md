@@ -8,6 +8,14 @@
 
 ## Our Team members -
 ### ☕ Xin HU - the PM/System Architect
+<img src="https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/MemberIcons/XinHU.png" alt="drawing" width="400"/>
+
+#### Introduction
++ I am Xin HU, the Project Manager of TeaParty, you can also call me Sean or Teagrus. I am a CS student from JLU who likes coding and expects collaborations with other DSD members. I like designing software architecture and welcome others to communicate with me. Besides, I am also interested in ACGN and video games. For anyone who wants to contact me, my WeChat id is Teagrus.
+#### Github Link 
++ https://github.com/Teagrus.
+
+
 ### ☕ Zhe-Jian FANG - Developer
 <img src="https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/MemberIcons/Zhe-JianFang.png" alt="drawing" width="400"/>
 
@@ -30,6 +38,13 @@
 + https://github.com/aliezk423.
 
 ### ☕ Xiao-Long ZHANG - Developer
+<img src="https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/MemberIcons/Xiao-LongZhang.png" alt="drawing" width="400"/>
+
+#### Introduction
++ I am Xiaolong Zhang ,a student in JLU. I am good at python and java. I have learned something about deep learning and Image procecing.
+#### Github Link 
++ https://github.com/kbqn20.
+
 ### ☕ Pedro Nunes - Requirement Analyst
 <img src="https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/MemberIcons/SuperQuinas.jpg" alt="drawing" width="400"/>
 
