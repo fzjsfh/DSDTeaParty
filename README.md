@@ -38,7 +38,7 @@
 + https://github.com/aliezk423.
 
 ### ☕ Xiao-Long ZHANG - Developer
-<img src="https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/MemberIcons/Xiao-LongZhang.png" alt="drawing" width="400"/>
+<img src="https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/MemberIcons/Xiao-LongZHANG.png" alt="drawing" width="400"/>
 
 #### Introduction
 + I am Xiaolong Zhang ,a student in JLU. I am good at python and java. I have learned something about deep learning and Image procecing.
