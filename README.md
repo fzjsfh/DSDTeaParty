@@ -59,7 +59,7 @@
 
 
 #### Introduction
-+ Hi! My name is Silvana Guedes, a Biomedical Engineering student at UTAD. I am interested in the biomedical area, as well as biomedicine, biotechnology, and bioinformatics. 
++ Hi! My name is Silvana Guedes, a Biomedical Engineering student in UTAD. I am interested in the biomedical area, as well as biomedicine, biotechnology, and bioinformatics. 
 #### Github Link 
 + https://github.com/SilvanaGuedes
 
