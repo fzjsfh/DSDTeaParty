@@ -4,7 +4,7 @@
 ## We are "TeaParty" and this is our home page!
 
 ## Our Roadmap
-<img src="https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/ganttv0.1.png" alt="drawing"/>
+<img src="https://raw.githubusercontent.com/Teagrus/DSDTeaParty/main/resources/ganttv0.2.png" alt="drawing"/>
 
 ## Our Team members -
 ### ☕ Xin HU - the PM/System Architect
